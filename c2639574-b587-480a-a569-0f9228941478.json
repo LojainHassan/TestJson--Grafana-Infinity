@@ -1,0 +1,50 @@
+[
+  {
+    "Code": 0,
+    "Name": "الكتروني",
+    "Name2": null,
+    "Docs": 83478,
+    "Pic": 0,
+    "Vid": 0,
+    "Auid": 0,
+    "Print": 0,
+    "Gift": 0,
+    "Tree": 0,
+    "Map": 0,
+    "cutom1": 0,
+    "custom2": 0,
+    "Count": 83478
+  },
+  {
+    "Code": 0,
+    "Name": "ورقي",
+    "Name2": null,
+    "Docs": 8699,
+    "Pic": 0,
+    "Vid": 2,
+    "Auid": 0,
+    "Print": 21,
+    "Gift": 0,
+    "Tree": 2,
+    "Map": 0,
+    "cutom1": 0,
+    "custom2": 0,
+    "Count": 8724
+  },
+  {
+    "Code": 99,
+    "Name": "المجموع",
+    "Name2": null,
+    "Docs": 92177,
+    "Pic": 0,
+    "Vid": 2,
+    "Auid": 0,
+    "Print": 21,
+    "Gift": 0,
+    "Tree": 2,
+    "Map": 0,
+    "cutom1": 0,
+    "custom2": 0,
+    "Count": 92202
+  }
+]
