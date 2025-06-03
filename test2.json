@@ -97,7 +97,7 @@
   },
   {
     "Code": 101,
-    "Name": "hcr_excel",
+    "Name": "nehcr_excel",
     "Name2": null,
     "Docs": 3628,
     "Pic": 0,
@@ -113,7 +113,7 @@
   },
   {
     "Code": 200,
-    "Name": "outlook",
+    "Name": "newoutlook",
     "Name2": null,
     "Docs": 5,
     "Pic": 0,
